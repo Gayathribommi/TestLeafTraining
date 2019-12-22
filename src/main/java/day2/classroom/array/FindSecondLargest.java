@@ -11,7 +11,7 @@ public class FindSecondLargest {
 		int[] data = {3,2,11,4,6,7};
 		Arrays.sort(data);
 		for (int i = 0; i < data.length; i++) {
-			System.out.println(data[i]);
+			//System.out.println(data[i]);
 			
 		}
 		int value = data [data.length-2];
